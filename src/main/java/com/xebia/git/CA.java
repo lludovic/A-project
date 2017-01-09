@@ -2,13 +2,13 @@ package com.xebia.git;
 
 public class CA {
 
-    private String field;
+    private String x;
 
-    public String getField() {
-        return field;
+    public String getX() {
+        return x;
     }
 
-    public void setField(String field) {
-        this.field = field;
+    public void setX(String x) {
+        this.x = x;
     }
 }
