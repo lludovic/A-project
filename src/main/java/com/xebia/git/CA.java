@@ -2,13 +2,13 @@ package com.xebia.git;
 
 public class CA {
 
-    private String y;
+    private String x;
 
-    public String getY() {
-        return y;
+    public String getX() {
+        return x;
     }
 
-    public void setY(String y) {
-        this.y = y;
+    public void setX(String x) {
+        this.x = x;
     }
 }
